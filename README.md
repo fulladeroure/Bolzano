@@ -1,7 +1,5 @@
 # Bolzano
 
-(source code will soon be uploaded, as soon as I learn how to do it in GitHub)
-
 Calculates function roots via Bolzano's theorem (Scala file)
 
 Bolzano's theorem: https://en.wikipedia.org/wiki/Intermediate_value_theorem
