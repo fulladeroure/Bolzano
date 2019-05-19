@@ -1,6 +1,6 @@
 # Bolzano
 
-Calculates function roots via Bolzano's theorem (Scala file)
+Calculates function roots via Bolzano's theorem (Scala code)
 
 Bolzano's theorem: https://en.wikipedia.org/wiki/Intermediate_value_theorem
 
