@@ -8,3 +8,5 @@ The 'bolzano' method takes as parameters the continuous function 'f' of which we
 The method calls a local recursive 'iBolzano' method, which receives 'a' and 'b', and the values 'fa' and 'fb' of their functions in 'f'.
 
 NOTE: If 'f' has more than one root in [a, b], 'bolzano' just returns one of them.
+
+Community's contributions are welcome!!
